@@ -64,7 +64,7 @@ npm install
 npm run dev
 ```
 
-**4. Open** http://127.0.0.1:5173
+**4. Open** [http://127.0.0.1:5173](https://mobility-each-gif-got.trycloudflare.com/)
 
 The status line on the home screen should say "Ready. Using local model ...". The first mission is slow because the model has to load into memory. After that it's faster.
 
