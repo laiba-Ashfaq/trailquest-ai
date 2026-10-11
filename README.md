@@ -92,7 +92,14 @@ Any instruction-following model that Ollama supports can work.
 
 The saved mission and your check-in note are kept in your browser's `localStorage`. Photos are only previewed in the page and are never uploaded or stored. Nothing is sent to any server except your own local backend.
 
-## Limitations
+## Overview
+<img width="1265" height="542" alt="image" src="https://github.com/user-attachments/assets/2692e999-0254-4d73-bc10-4c9ea0df9c93" />
+<img width="708" height="489" alt="image" src="https://github.com/user-attachments/assets/0076f698-73d0-424c-bc54-1d3416cbd114" />
+<img width="833" height="485" alt="image" src="https://github.com/user-attachments/assets/6bf897a3-8a28-408d-af4d-ae955785b7de" />
+
+<img width="641" height="471" alt="image" src="https://github.com/user-attachments/assets/1c85ef6c-e920-454c-ae5c-e2b3066e8c0a" />
+<img width="767" height="477" alt="image" src="https://github.com/user-attachments/assets/2a34c06b-1e97-4d60-97da-e0da8b15bf8d" />
+
 
 - Mission quality depends on the model you run. Small models write simpler missions.
 - The first mission after starting Ollama is slow, especially on CPU-only machines.
